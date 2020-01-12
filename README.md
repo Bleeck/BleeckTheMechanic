@@ -1,4 +1,7 @@
-# BleeckTheMechanic
+![Smokey Gears](https://raw.githubusercontent.com/Bleeck/bleeck.github.com/master/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg)
+
+
+# ![Smokey Gears](https://raw.githubusercontent.com/Bleeck/bleeck.github.com/master/assets/images/favicon.png)  BleeckTheMechanic
 
 This is a repo where you can find any files needed to follow tutorials made on [Bleeck The Mechanic](https://bleeck.github.io/).
 
