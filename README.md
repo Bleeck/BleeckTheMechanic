@@ -5,7 +5,4 @@ This is a repo where you can find any files needed to follow tutorials made on [
 
 ## Tutorial files
 
-
-
-
-#### [Mixamo and Animation Retargeting in Unreal](https://github.com/Bleeck/BleeckTheMechanic/tree/Mixamo_and_Animation_Retargeting_in_Unreal/Mixamo%20and%20Animation%20Retargeting%20in%20Unreal)
+####  [Mixamo and Animation Retargeting in Unreal](https://youtu.be/XvqSOfsf_PU) / [Get files](https://github.com/Bleeck/BleeckTheMechanic/tree/Mixamo_and_Animation_Retargeting_in_Unreal/Mixamo%20and%20Animation%20Retargeting%20in%20Unreal)
