@@ -5,4 +5,8 @@ This is a repo where you can find any files needed to follow tutorials made on [
 
 ## Tutorial files
 
-####  [Mixamo and Animation Retargeting in Unreal](https://youtu.be/XvqSOfsf_PU) / [Get files](https://github.com/Bleeck/BleeckTheMechanic/tree/Mixamo_and_Animation_Retargeting_in_Unreal/Mixamo%20and%20Animation%20Retargeting%20in%20Unreal)
+#### [Niagara tutorial series](https://www.youtube.com/playlist?list=PLcDcPCfgLOnCzYTufd6DXOJ-6-oacih_D)
+
+* [Part 1](https://youtu.be/93Gwq_aQ_Qo) / [download files](https://github.com/Bleeck/BleeckTheMechanic/tree/Niagara_StarterFiles_Part2)
+
+[Mixamo and Animation Retargeting in Unreal](https://youtu.be/XvqSOfsf_PU) / [download files](https://github.com/Bleeck/BleeckTheMechanic/tree/Mixamo_and_Animation_Retargeting_in_Unreal)
