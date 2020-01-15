@@ -10,7 +10,7 @@
 
 * [Part 1](https://bleeck.github.io/niagara/2020/01/11/niagara-tutorial-series-part1.html) / [download files](https://github.com/Bleeck/BleeckTheMechanic/tree/Niagara_StarterFiles_Part2)
 
-* [Part 2](https://trello.com/b/jvOj18Ra/bleeck-the-mechanic) / [download files](https://github.com/Bleeck/BleeckTheMechanic/tree/Niagara_StarterFiles_Part2)
+* [Part 2](https://youtu.be/ftIlR_G1HIk) / [download files](https://github.com/Bleeck/BleeckTheMechanic/tree/Niagara_StarterFiles_Part2)
 
 * [Part 3](https://trello.com/b/jvOj18Ra/bleeck-the-mechanic) / [download files](https://github.com/Bleeck/BleeckTheMechanic/tree/Niagara_StarterFiles_Part3)
 
