@@ -14,6 +14,6 @@
 
 * [Part 3](https://bleeck.github.io/niagara/2020/01/15/niagara-tutorial-series-part3.html) / [download files](https://github.com/Bleeck/BleeckTheMechanic/tree/Niagara_StarterFiles_Part3)
 
-* [Part 4](https://trello.com/b/jvOj18Ra/bleeck-the-mechanic)
+* [Part 4 - check status on trello board](https://trello.com/b/jvOj18Ra/bleeck-the-mechanic) / [download files](https://github.com/Bleeck/BleeckTheMechanic/tree/Niagara_StarterFiles_Part4)
 
 [Mixamo and Animation Retargeting in Unreal](https://bleeck.github.io/blender/2020/01/07/Mixamo-and-Animation-Retargeting-in-Unreal.html) / [download files](https://github.com/Bleeck/BleeckTheMechanic/tree/Mixamo_and_Animation_Retargeting_in_Unreal)
