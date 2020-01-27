@@ -8,7 +8,7 @@
 
 #### Niagara tutorial series : [full playlist](https://www.youtube.com/playlist?list=PLcDcPCfgLOnCzYTufd6DXOJ-6-oacih_D)
 
-* [Part 1](https://bleeck.github.io/niagara/2020/01/11/niagara-tutorial-series-part1.html) / [download files](https://github.com/Bleeck/BleeckTheMechanic/tree/Niagara_StarterFiles_Part2)
+* [Part 1](https://bleeck.github.io/niagara/2020/01/11/niagara-tutorial-series-part1.html)
 
 * [Part 2](https://bleeck.github.io/niagara/2020/01/15/niagara-tutorial-series-part2.html) / [download files](https://github.com/Bleeck/BleeckTheMechanic/tree/Niagara_StarterFiles_Part2)
 
