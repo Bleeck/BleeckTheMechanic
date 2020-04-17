@@ -1,7 +1,4 @@
-[![website link](https://raw.githubusercontent.com/Bleeck/bleeck.github.com/master/assets/images/cA4aKEIPQrerBnp1yGHv_IMG_9534-3-2.jpg)](https://bleeck.github.io)
-
-
-# [![website link](https://raw.githubusercontent.com/Bleeck/bleeck.github.com/master/assets/images/favicon.png)](https://bleeck.github.io) BleeckTheMechanic
+# [BleeckTheMechanic](https://bleeck.artstation.com)
 
 
 ## Tutorial files
